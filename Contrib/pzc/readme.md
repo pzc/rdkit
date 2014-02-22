@@ -1,3 +1,10 @@
+
+If you use the code for any publish, please cite this manuscript:
+dx.doi.org/10.1021/ci400308z
+
+#
+
+
 Documentation for p_con (https://github.com/pzc/rdkit/blob/master/Contrib/pzc/p_con.html)
 
 from p_con import p_con
